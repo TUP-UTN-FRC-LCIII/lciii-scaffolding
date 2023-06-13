@@ -1,0 +1,1 @@
+{"openapi":"3.0.1","info":{"title":"'lciii-scaffolding'","description":"'LCII Initial Scaffolding'","contact":{"name":"None","email":"none@none.com"},"version":"'0.0.1-SNAPSHOT'"},"servers":[{"url":"http://localhost:8080","description":"'LCII Initial Scaffolding'"}],"paths":{},"components":{}}
